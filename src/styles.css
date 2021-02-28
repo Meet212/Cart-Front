@@ -25,3 +25,14 @@ border-top-right-radius: 0;
     color: palevioletred;
     cursor: pointer;
 }
+.guest-form-card h2{
+    text-transform: uppercase;
+    font-size: medium;
+}
+.guest-form-card label{
+    font-size: medium;
+}
+
+.btn-primary.disabled,.btn-primary:disabled{
+    cursor: not-allowed;
+}
