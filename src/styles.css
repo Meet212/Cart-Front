@@ -32,7 +32,6 @@ border-top-right-radius: 0;
 .guest-form-card label{
     font-size: medium;
 }
-
 .btn-primary.disabled,.btn-primary:disabled{
     cursor: not-allowed;
 }
